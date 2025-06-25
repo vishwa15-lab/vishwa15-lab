@@ -6,6 +6,10 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 3. [Denoising Diffusion Probabilistic Models (DDPM)]() \\
 
 
+### <br/> Reinforcement Learning
+1. Policy Gradients on Pong using OpenAI Gym
+
+
 ### <br/> Large Language Models <br/> / Natural Language Processing
 1. [Finetuning LLM]()
 2. [Transfomer]()
