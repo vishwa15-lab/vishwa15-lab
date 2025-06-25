@@ -5,13 +5,16 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 2. [Variational Auto Encoder (VAE)]()
 3. [Denoising Diffusion Probabilistic Models (DDPM)]()
 
+
 ### Large Language Models <br/>/ Natural Language Processing
 1. [Finetuning LLM]()
 2. [Transfomer]()
 3. [Attention]()
 
+
 ### Computer Vision
 1. [Convolutional Neural Net]()
+
 
 ### Multimodal Models
 1. [Transformer]()
