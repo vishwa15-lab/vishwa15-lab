@@ -1,4 +1,4 @@
-Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and implement them. Some of the code snippets here are not original and were adapted from various online resources.
+Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and implement them. Some of the code snippets here are not original and were adapted from various online sources.
 
 ### <br/> Generative AI models
 1. [Deep Convolutional GAN](https://github.com/vishwa-explore/DC-GAN)
