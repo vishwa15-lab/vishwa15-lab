@@ -2,8 +2,8 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 
 ### <br/> Generative AI models
 1. [Generative Adversarial Networks (GANs)](https://github.com/vishwa-explore/DC-GAN)
-2. [Variational Auto Encoder (VAE)]()
-3. [Denoising Diffusion Probabilistic Models (DDPM)]()
+2. [Variational Auto Encoder (VAE)](https://github.com/vishwa15-lab/VAE)
+3. [Denoising Diffusion Probabilistic Models (DDPM)](https://github.com/vishwa15-lab/DDPMs)
 
 
 ### <br/> Large Language Models <br/> / Natural Language Processing
