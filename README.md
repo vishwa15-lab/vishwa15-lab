@@ -4,6 +4,7 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 1. [Finetuning LLM]()
 2. [Transfomer]()
 3. [Attention]()
+4. [Nano GPT] (https://github.com/vishwa15-lab/ng-video-lecture)
 
 ### <br/> Generative AI models
 1. [Generative Adversarial Networks (GANs)](https://github.com/vishwa-explore/DC-GAN)
