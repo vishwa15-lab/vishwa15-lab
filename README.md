@@ -1,10 +1,9 @@
 Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and implement them. Some of the code snippets here were adapted from various online sources to learn.
 
 ### <br/> Large Language Models
-1. [Finetuning LLM]()
-2. [Transfomer]()
-3. [Hands on Large Language Models](https://github.com/vishwa15-lab/Hands-On-Large-Language-Models)
-4. [Nano GPT](https://github.com/vishwa15-lab/ng-video-lecture)
+1. [ANN, RNN, LSTM, Seq2Seq, Attention, Transfomer](https://github.com/vishwa15-lab/signa)
+2. [Hands on Large Language Models](https://github.com/vishwa15-lab/Hands-On-Large-Language-Models)
+3. [Nano GPT](https://github.com/vishwa15-lab/ng-video-lecture)
 
 ### <br/> Generative AI models
 1. [Generative Adversarial Networks (GANs)](https://github.com/vishwa-explore/DC-GAN)
