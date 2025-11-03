@@ -3,7 +3,7 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 ### <br/> Large Language Models
 1. [Finetuning LLM]()
 2. [Transfomer]()
-3. [Attention]()
+3. [Hands on Large Language Models](https://github.com/vishwa15-lab/Hands-On-Large-Language-Models)
 4. [Nano GPT](https://github.com/vishwa15-lab/ng-video-lecture)
 
 ### <br/> Generative AI models
