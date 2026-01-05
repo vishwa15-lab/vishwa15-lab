@@ -13,6 +13,7 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 
 ### <br/> Computer Vision
 1. [Convolutional Neural Net](https://github.com/vishwa15-lab/DeepLearnToolbox/tree/master/CNN)
+2. [Multi-stage ResNet + Selective Search pipeline for robust traffic sign recognition in Caffe](https://github.com/vishwa15-lab/Resnet_Sel_Search_Traffic_Sign_Caffe)
 
 
 ### <br/> Multimodal Models
