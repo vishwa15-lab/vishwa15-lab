@@ -1,4 +1,5 @@
-Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and implement them. Some of the code snippets here were adapted from various online sources to learn.
+Hi there. I'm an applied AI researcher with expertise in adapting state-of-art Deep Learning, Transformer and
+Reinforcement Learning algorithms across vision and language.
 
 ### <br/> Large Language Models 
 1. [Fine-tuning Llama on Alpaca Dataset](https://colab.research.google.com/drive/1K0gmWmA4nDHfjOp5ZNtmTkDk0dBsuOKU?usp=drive_link)
