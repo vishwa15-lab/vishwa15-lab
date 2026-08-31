@@ -2,6 +2,7 @@ Hi there. I'm an applied AI researcher. I love to learn new AI algorithms and im
 
 ### <br/> Large Language Models 
 1. [Fine-tuning Llama on Alpaca Dataset](https://colab.research.google.com/drive/1K0gmWmA4nDHfjOp5ZNtmTkDk0dBsuOKU?usp=drive_link)
+2. [Multimodal Large Language Models](https://colab.research.google.com/drive/1CZYvAPEUBBNLqBPDYeE5WW_2mi5EadUR#scrollTo=dxgRY_-GaMD3)
 
 ### <br/> Transformers
 1. [ANN, RNN, LSTM, Seq2Seq, Attention, Transfomer](https://github.com/vishwa15-lab/signa)
