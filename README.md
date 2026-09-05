@@ -23,4 +23,5 @@ Reinforcement Learning algorithms across vision and language.
 1. [Balancing CartPole using RL in OpenAI Gym](https://github.com/vishwa15-lab/RL_OpenAI_Gym_CartPole)
 
 ### <br/> Others
-1. [Android IoT(Internet of Things) app for smart home control and cloud data collection](https://github.com/vishwa15-lab/IoT_Android)
+1. [Landmark AI papers](https://github.com/AnupBhat30/ilya-sutskever-ai-reading-list)
+2. [Android IoT(Internet of Things) app for smart home control and cloud data collection](https://github.com/vishwa15-lab/IoT_Android)
