@@ -15,8 +15,9 @@ language
 3. [Denoising Diffusion Probabilistic Models (DDPM)](https://github.com/vishwa15-lab/DDPMs)
 
 ### <br/> Computer Vision
-1. [Convolutional Neural Net](https://github.com/vishwa15-lab/DeepLearnToolbox/tree/master/CNN)
-2. [Multi-stage ResNet + Selective Search pipeline for robust traffic sign recognition in Caffe](https://github.com/vishwa15-lab/Resnet_Sel_Search_Traffic_Sign_Caffe)
+1. [YOLOv7 Object Detection on Large datasets](https://zenodo.org/records/21242395)
+2. [Convolutional Neural Net](https://github.com/vishwa15-lab/DeepLearnToolbox/tree/master/CNN)
+3. [Multi-stage ResNet + Selective Search pipeline for robust traffic sign recognition in Caffe](https://github.com/vishwa15-lab/Resnet_Sel_Search_Traffic_Sign_Caffe)
 
 ### <br/> Reinforcement Learning
 1. [Balancing CartPole using RL in OpenAI Gym](https://github.com/vishwa15-lab/RL_OpenAI_Gym_CartPole)
