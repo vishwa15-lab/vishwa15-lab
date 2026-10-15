@@ -3,7 +3,7 @@ language
 
 
 ### <br/> Agentic AI
-1. [Agent Frameworks](https://github.com/vishwa15-lab/Survey-Harmonisation-Agent)
+1. [Survey-Harmonisation-Agent](https://github.com/vishwa15-lab/Survey-Harmonisation-Agent)
 
 ### <br/> Large Language Models 
 1. [Fine-tuning Llama on Alpaca Dataset](https://github.com/vishwa15-lab/LLM-Finetuning-Llama)
